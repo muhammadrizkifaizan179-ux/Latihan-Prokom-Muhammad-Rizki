@@ -1,3 +1,0 @@
-import exercise_8_15_function
-
-exercise_8_15_function.printing_function()
